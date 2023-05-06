@@ -20,6 +20,10 @@ import SwiftUI
 ///
 ///
 
+// testline....i made this line in the orgin project to develop and test the package
+// and the testline is automatically in the package folder MyFirstSwiftPackage
+// Nice !!!!
+// git commands can be done here or in the MyFirstSwiftPackage folder
 
 // public because we are in a package
 //struct RatingView: View {
